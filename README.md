@@ -1,4 +1,4 @@
 # projetoIMC
 
-Projeto calculadora de Indice porcentual de gordura, realizado por Gabriel Marin. 
-Estudande de tecnologia.
+Projeto calculadora de indice de massa corporal, onde retorna o valor percentual de gordura no corpo com base na altura e peso, realizado por Gabriel Marin,
+estudande de tecnologia.
